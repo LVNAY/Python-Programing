@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\chapter1"
+    "\\chapter2",
+    "\\chapter3",
+    "\\chapter4",
+    "\\chapter5"
   ],
-  "SelectedNode": "\\chapter1\\AnHonestDay'sWork.py",
+  "SelectedNode": "\\chapter5\\Willow'sWildRide.py",
   "PreviewInSolutionExplorer": false
 }
